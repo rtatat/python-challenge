@@ -8,7 +8,7 @@ Firstly, the following was done:
 Each folder includes:
 * main.py, containing the main script
 * Resources folder containing the required CSV files used
-*Analysis folder containing a text file output
+* Analysis folder containing a text file output
 
 Changes were pushed to GitHub
 
