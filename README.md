@@ -1,5 +1,5 @@
 # Module 3 Challenge - Python
-# Two Challnges were completed
+# Two Challenges were completed
 Firstly, the following was done:
 * Create a new repository for this project called python-challenge
 * Repository was cloned to my computer
