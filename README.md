@@ -36,7 +36,7 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 ```
 The script prints to the terminal and into a text file
 
-#PyPoll Challenge:
+# PyPoll Challenge:
 I was provided with a set of poll data called election_data.csv. 
 The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
 I needed to create a Python script that analyzes the votes and calculates each of the following values:
